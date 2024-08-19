@@ -103,14 +103,14 @@ AI Assistant:  Based on the provided financial information, here is a summary of
    - Net Debt / EBITDA: 1.53
    - Dividend Payout Ratio: 12.56%
 
-   The Piotroski F-Score of 4 suggests that the company has a moderate financial strength. The net debt to EBITDA ratio indicates the company's ability to repay its debt, with a ratio of 1.53. The dividend payout ratio suggests that the company distributes a portion of its earnings as dividends.
+   The Piotroski F-Score of 4 suggests that the company has moderate financial strength. The net debt to EBITDA ratio indicates the company's ability to repay its debt, with a ratio of 1.53. The dividend payout ratio suggests that the company distributes a portion of its earnings as dividends.
 
 Based on the provided information, the company appears to be in a strong financial position with healthy profitability metrics and positive cash flow. However, it is important to conduct further research and analysis to fully understand the company's financial health and prospects.
 ```
 
 ## Attribution
 
-This script utilizes the SimFin API for retrieving company financial information and the OpenAI API for generating the AI analysis.
+This script utilises the SimFin API for retrieving company financial information and the OpenAI API for generating the AI analysis.
 
 ## Disclaimer
 
